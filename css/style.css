@@ -39,9 +39,52 @@ body {
     src: url("../fonts/AvenirLTStd-Roman.otf");
 }
 
+#about{
+    position: absolute;
+    display: inline-block;
+    width: 350px;
+    height:290px;
+    line-height: 25px;
+    top: 100px;
+    left: 250px;
+}
+
+#title{
+    position: absolute;
+    display: inline-block;
+    width: 350px;
+    height:290px;
+    line-height: 25px;
+    top: 60px;
+    left: 248px;
+    font-size: 45px;
+}
+
+.fixed {
+    position: fixed;
+}
 
 
+#header{
+    position: absolute;
+    display: inline-block;
+    width: 350px;
+    height:290px;
+    line-height: 45px;
+    top: 90px;
+    left: 197px;
+    font-size: 45px;
+}
 
+#description{
+    position: absolute;
+    display: inline-block;
+    width: 350px;
+    height:290px;
+    line-height: 25px;
+    top: 200px;
+    left: 200px;
+}
 
 
 
