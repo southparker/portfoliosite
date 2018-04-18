@@ -2,6 +2,9 @@ body {
     background-color:  #FEFEFE;
     font-family: "PT_Serif-Web-Regular"; 
 }
+.fixed{
+        position: fixed;
+    }
 
 .grid {
     width: 900px;
